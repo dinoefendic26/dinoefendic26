@@ -21,6 +21,6 @@
 </div><br><br>
 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=radical) -->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinoefendic26)](https://github.com/dinoefendic26/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=radical) -->
+
 
