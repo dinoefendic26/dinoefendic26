@@ -22,4 +22,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=dark" alt="GitHub stats">
+    
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
