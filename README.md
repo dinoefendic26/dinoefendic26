@@ -6,9 +6,9 @@
 </div>
 
 
+
+
 ![Unity](http://skillicons.dev/icons?i=unity "Unity")
-<div align="center">
-  ![Unity](http://skillicons.dev/icons?i=unity "Unity")
   ![VSCode](http://skillicons.dev/icons?i=vscode "VSCode")
   ![.NET](http://skillicons.dev/icons?i=dotnet "dotnet")
   ![C#](http://skillicons.dev/icons?i=cs "C#")
@@ -19,4 +19,4 @@
   ![Android Studio](http://skillicons.dev/icons?i=androidstudio "Android Studio")
   ![MySQL](http://skillicons.dev/icons?i=mysql "MySQL")
   ![Figma](http://skillicons.dev/icons?i=figma "Figma")
-</div>
+
