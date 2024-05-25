@@ -26,5 +26,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dinoefendic26&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true">
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=midnight-purple&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" height="100" width="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" height="100">
 </div>
