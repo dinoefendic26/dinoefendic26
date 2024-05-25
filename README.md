@@ -1,7 +1,7 @@
 <h2 align="center"> Languages & Tools </h2>
 <br/>
 <div align="center">
-    <img src="http://skillicons.dev/icons?i=unity,vscode,dotnet,cs,c,python,java,kotlin,androidstudio,mysql,figma" /><br>
+    <img src="http://skillicons.dev/icons?i=unity title=Unity,vscode,dotnet,cs,c,python,java,kotlin,androidstudio,mysql,figma" /><br>
     <img src=http://skillicons.dev/icons?i=html,css,javascript,jquery,nodejs,php /><br>
 </div>
 
