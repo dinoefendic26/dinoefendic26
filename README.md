@@ -1,4 +1,4 @@
-<h2 align="center"> Languages & Tools </h2>
+<h1 align="center"> Languages & Tools </h1>
 <br/>
 <div align="center">
     <img src="http://skillicons.dev/icons?i=unity" title="Unity" width="60" height="60"/>
