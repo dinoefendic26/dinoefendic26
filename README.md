@@ -1,6 +1,14 @@
 <h1 align="center"> Languages & Tools </h1>
 <br/>
 <div align="center">
+    <style>
+    .hover-img {
+      transition: transform 0.3s ease;
+    }
+    .hover-img:hover {
+      transform: scale(1.1);
+    }
+</style>
     <a href="https://unity.com/"> <img src="http://skillicons.dev/icons?i=unity" title="Unity" width="60" height="60"> </a>
     <img class="hover-img" src="http://skillicons.dev/icons?i=vscode" title="VS Code" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" width="60" height="60"/>
@@ -31,11 +39,4 @@
 </div>
 
 
-<style>
-    .hover-img {
-      transition: transform 0.3s ease;
-    }
-    .hover-img:hover {
-      transform: scale(1.1);
-    }
-</style>
+
