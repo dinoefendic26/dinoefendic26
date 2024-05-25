@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
     <a href="https://unity.com/"> <img src="http://skillicons.dev/icons?i=unity" title="Unity" width="60" height="60"> </a>
-    <img src="http://skillicons.dev/icons?i=vscode" title="VS Code" width="60" height="60"/>
+    <img class="hover-img" src="http://skillicons.dev/icons?i=vscode" title="VS Code" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=cs" title="C#" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=python" title="Python" width="60" height="60"/>
@@ -29,3 +29,13 @@
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=react&hide_border=false" width="700">-->
 </div>
+
+
+<style>
+    .hover-img {
+      transition: transform 0.3s ease;
+    }
+    .hover-img:hover {
+      transform: scale(1.1);
+    }
+</style>
