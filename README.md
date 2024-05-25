@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
   <a href="http://skillicons.dev">
-    ![Unity]<img src=http://skillicons.dev/icons?i=unity,vscode,dotnet,cs,c,python,java,kotlin,androidstudio,mysql,figma /><br>
+    <img src=http://skillicons.dev/icons?i=unity,vscode,dotnet,cs,c,python,java,kotlin,androidstudio,mysql,figma /><br>
     <img src=http://skillicons.dev/icons?i=html,css,javascript,jquery,nodejs,php /><br>
   </a>    
 </div>
