@@ -18,7 +18,7 @@
     <img src="http://skillicons.dev/icons?i=jquery" title="jQuery" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=nodejs" title="Node.js" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=php" title="PHP" width="60" height="60"/>
-</div>
+</div><br><br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=radical)
