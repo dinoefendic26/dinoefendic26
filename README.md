@@ -18,7 +18,7 @@
       <td><img src="http://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="50" height="50"></td>
       <td><img src="http://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="50" height="50"></td>
       <td><img src="http://skillicons.dev/icons?i=c" alt="C" title="C" width="50" height="50"></td>
-      <td><img src="http://skillicons.dev/icons?i=python" alt="Python" title="Python" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=python" alt="Python" title="Dino" width="50" height="50"></td>
     </tr>
     <tr>
       <td><img src="http://skillicons.dev/icons?i=java" alt="Java" title="Java" width="50" height="50"></td>
