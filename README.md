@@ -31,7 +31,3 @@
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=react&hide_border=false" width="700">-->
 </div>
-
-
-
-![giphy](https://github.com/dinoefendic26/dinoefendic26/assets/61921326/a8505806-d32e-4624-bf36-c9b0a6081041)
