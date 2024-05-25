@@ -1,6 +1,6 @@
 # Coming soon
 
-<h2 align="center"> Langauges-Tools </h2>
+<h2 align="center"> Languages & Tools </h2>
 <br/>
 <div align="center">
   <a href="http://skillicons.dev">
