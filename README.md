@@ -20,6 +20,8 @@
     <img src="http://skillicons.dev/icons?i=mysql" title="MySQL" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=figma" title="Figma" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=blender" title="Blender" width="65" height="65"/>
+    ![giphy](https://github.com/dinoefendic26/dinoefendic26/assets/61921326/a8505806-d32e-4624-bf36-c9b0a6081041)
+
 </div><br><br>
 
 
