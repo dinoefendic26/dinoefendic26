@@ -21,6 +21,6 @@
 </div><br><br>
 
 <div align="center">
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=dark)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=dark)
 </div>
 
