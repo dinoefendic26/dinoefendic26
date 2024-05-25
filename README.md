@@ -24,7 +24,6 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dinoefendic26&theme=react&show_icons=true&hide_border=false&count_private=true" width="300">
-    <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=react&hide_border=false" width="300">
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&theme=react&show_icons=true&hide_border=false&layout=compact" width="300">
