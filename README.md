@@ -8,15 +8,26 @@
 
 
 
-![Unity](http://skillicons.dev/icons?i=unity "Unity")
-  ![VSCode](http://skillicons.dev/icons?i=vscode "VSCode")
-  ![.NET](http://skillicons.dev/icons?i=dotnet "dotnet")
-  ![C#](http://skillicons.dev/icons?i=cs "C#")
-  ![C](http://skillicons.dev/icons?i=c "C")
-  ![Python](http://skillicons.dev/icons?i=python "Python")
-  ![Java](http://skillicons.dev/icons?i=java "Java")
-  ![Kotlin](http://skillicons.dev/icons?i=kotlin "Kotlin")
-  ![Android Studio](http://skillicons.dev/icons?i=androidstudio "Android Studio")
-  ![MySQL](http://skillicons.dev/icons?i=mysql "MySQL")
-  ![Figma](http://skillicons.dev/icons?i=figma "Figma")
+# Skills
+
+<div style="text-align: center;">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td><img src="http://skillicons.dev/icons?i=unity" alt="Unity" title="Unity" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=c" alt="C" title="C" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=python" alt="Python" title="Python" width="50" height="50"></td>
+    </tr>
+    <tr>
+      <td><img src="http://skillicons.dev/icons?i=java" alt="Java" title="Java" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" height="50"></td>
+      <td><img src="http://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="50" height="50"></td>
+    </tr>
+  </table>
+</div>
+
 
