@@ -18,6 +18,7 @@
     <img src="http://skillicons.dev/icons?i=jquery" title="jQuery" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=nodejs" title="Node.js" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=php" title="PHP" width="60" height="60"/>
+    Check out my [GitHub stats with hover animation](https://gist.github.com/dinoefendic26/ba3efdb0a7847a9910bb74d6bbc0fdc6.js)
 </div><br><br>
 
 
@@ -30,5 +31,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=react&hide_border=false" width="700">-->
 </div>
 
-Check out my [GitHub stats with hover animation](https://gist.github.com/dinoefendic26/ba3efdb0a7847a9910bb74d6bbc0fdc6.js)
+
 
