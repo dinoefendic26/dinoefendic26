@@ -30,5 +30,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=react&hide_border=false" width="700">-->
 </div>
 
-(https://gist.github.com/dinoefendic26/ba3efdb0a7847a9910bb74d6bbc0fdc6.js)
+Check out my [GitHub stats with hover animation](https://gist.github.com/dinoefendic26/ba3efdb0a7847a9910bb74d6bbc0fdc6.js)
 
