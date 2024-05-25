@@ -11,11 +11,13 @@
     <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="75" height="75"/>
     <img src="http://skillicons.dev/icons?i=mysql" title="MySql" width="75" height="75"/>
     <img src="http://skillicons.dev/icons?i=figma" title="Figma" width="75" height="75"/>
-        
-        
-        dotnet,cs,c,python,java,kotlin,androidstudio,mysql,figma />
     <br>
-    <img src=http://skillicons.dev/icons?i=html,css,javascript,jquery,nodejs,php /><br>
+    <img src="http://skillicons.dev/icons?i=html" title="HTML" width="75" height="75"/>
+    <img src="http://skillicons.dev/icons?i=css" title="CSS" width="75" height="75"/>
+    <img src="http://skillicons.dev/icons?i=javascript" title="JavaScript" width="75" height="75"/>
+    <img src="http://skillicons.dev/icons?i=jquery" title="jQuery" width="75" height="75"/>
+    <img src="http://skillicons.dev/icons?i=nodejs" title="Node.js" width="75" height="75"/>
+    <img src="http://skillicons.dev/icons?i=php" title="PHP" width="75" height="75"/>
 </div>
 
 
