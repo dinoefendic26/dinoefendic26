@@ -5,7 +5,7 @@
     <img src="http://skillicons.dev/icons?i=vscode" title="VS Code" width="75" height="75"/>
     <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" width="75" height="75"/>
     <img src="http://skillicons.dev/icons?i=cs" title="C#" width="75" height="75"/>
-    <img src="http://skillicons.dev/icons?i=python" title="Python" width="75" height="75"/>
+    <img src="http://skillicons.dev/icons?i=python" title="Python" width="60" height="60"/>
     <img src="http://skillicons.dev/icons?i=java" title="Java" width="75" height="75"/>
     <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin" width="75" height="75"/>
     <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="75" height="75"/>
