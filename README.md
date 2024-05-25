@@ -20,7 +20,6 @@
     <img src="http://skillicons.dev/icons?i=php" title="PHP" width="60" height="60"/>
 </div><br><br>
 
-<div align="center">
-(https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=dark)
-</div>
+<div align="center" ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=dark) >
+
 
