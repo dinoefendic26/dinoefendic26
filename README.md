@@ -11,6 +11,7 @@
     <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=mysql" title="MySQL" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=figma" title="Figma" width="65" height="65"/>
+    <img src="http://skillicons.dev/icons?i=blender" title="Blender" width="65" height="65"/>
     <br>
     <img src="http://skillicons.dev/icons?i=html" title="HTML" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=css" title="CSS" width="65" height="65"/>
