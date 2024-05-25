@@ -22,6 +22,5 @@
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&langs_count=8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&layout=pie)](https://github.com/dinoefendic26/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dinoefendic26)](https://github.com/anuraghazra/github-readme-stats)
 
