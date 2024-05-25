@@ -8,6 +8,8 @@
     <img src="http://skillicons.dev/icons?i=nodejs" title="Node.js" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=php" title="PHP" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=mysql" title="MySQL" width="65" height="65"/>
+    <img src="http://skillicons.dev/icons?i=figma" title="Figma" width="65" height="65"/>
+    <img src="http://skillicons.dev/icons?i=blender" title="Blender" width="65" height="65"/>
     <br>
     <img src="http://skillicons.dev/icons?i=unity" title="Unity" width="65" height="65"/>
     <img class="hover-img" src="http://skillicons.dev/icons?i=vscode" title="VS Code" width="65" height="65"/>
@@ -18,10 +20,6 @@
     <img src="http://skillicons.dev/icons?i=java" title="Java" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=figma" title="Figma" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=blender" title="Blender" width="65" height="65"/>
-    <br>
-   
 </div><br><br>
 
 
