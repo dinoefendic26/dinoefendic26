@@ -20,11 +20,6 @@
     <img src="http://skillicons.dev/icons?i=php" title="PHP" width="60" height="60"/>
 </div><br><br>
 
-<div align="center">
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=dinoefendic26&show_icons=true&theme=dark" alt="GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&size_weight=0.5&count_weight=0.5" alt="Top Lang">
-</div>
 
 ![dinoefendic26's Stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![dinoefendic26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=dark&hide_border=false)
