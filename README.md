@@ -21,7 +21,7 @@
 </div><br><br>
 
 
-![dinoefendic26's Stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&theme=nord&show_icons=true&hide_border=false&count_private=true)<br>
+![dinoefendic26's Stats](https://github-readme-stats.vercel.app/api?username=dinoefendic26&theme=gotham&show_icons=true&hide_border=false&count_private=true)<br>
 ![dinoefendic26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=great-gatsby&hide_border=true)<br>
 ![dinoefendic26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
