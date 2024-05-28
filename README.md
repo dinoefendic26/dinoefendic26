@@ -1,5 +1,15 @@
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
 <br/>
+<div style="display: inline-block; text-align: center; margin-right: 10px;">
+    <img src="http://skillicons.dev/icons?i=unity" title="Unity" />
+    <p>Unity</p>
+</div>
+<div style="display: inline-block; text-align: center; margin-right: 10px;">
+    <img src="http://skillicons.dev/icons?i=vscode" title="VS Code" />
+    <p>VS Code</p>
+</div>
+<br>
+
 <div align="center">
     <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=vscode" title="VS Code"/>&nbsp;&nbsp;&nbsp;&nbsp;
