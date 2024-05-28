@@ -1,5 +1,5 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
 <br/>
