@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
     <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>&nbsp;&nbsp;
-    <img src="http://skillicons.dev/icons?i=vscode" title="VS Code"/>vscode&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=vscode" title="VS Code"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" />&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=cs" title="C#"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=c" title="C"/>&nbsp;&nbsp;
@@ -11,7 +11,6 @@
     <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>&nbsp;&nbsp;
     <br><br>
-    unity
     <img src="http://skillicons.dev/icons?i=html" title="HTML"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=css" title="CSS"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=javascript" title="JavaScript"/>&nbsp;&nbsp;
