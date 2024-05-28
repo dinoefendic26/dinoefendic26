@@ -2,14 +2,14 @@
 <br/>
 <div align="center">
     <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>
-    <img class="hover-img" src="http://skillicons.dev/icons?i=vscode" title="VS Code" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=cs" title="C#" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=c" title="C" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=python" title="Python" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=java" title="Java" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin" width="65" height="65"/>
-    <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio" width="65" height="65"/>
+    <img class="hover-img" src="http://skillicons.dev/icons?i=vscode" title="VS Code" />
+    <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" />
+    <img src="http://skillicons.dev/icons?i=cs" title="C#" />
+    <img src="http://skillicons.dev/icons?i=c" title="C" />
+    <img src="http://skillicons.dev/icons?i=python" title="Python" />
+    <img src="http://skillicons.dev/icons?i=java" title="Java" />
+    <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin" />
+    <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
     <br>
     <img src="http://skillicons.dev/icons?i=html" title="HTML" width="65" height="65"/>
     <img src="http://skillicons.dev/icons?i=css" title="CSS" width="65" height="65"/>
