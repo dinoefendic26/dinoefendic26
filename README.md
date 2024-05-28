@@ -1,6 +1,6 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> -->
 <p align="left">
-    <img width="800" height="50" src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" alt="Typing SVG" />
+    <img width="800" height="100" src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" alt="Typing SVG" />
 </p>
 
 
