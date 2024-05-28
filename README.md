@@ -1,12 +1,5 @@
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
 <br/>
-<div style="display: inline-block; text-align: center;">
-    <img src="http://skillicons.dev/icons?i=unity" title="Unity" />
-    <p>Unity</p>
-    <img src="http://skillicons.dev/icons?i=vscode" title="VS Code" />
-    <p>VS Code</p>
-</div>
-<br>
 
 <div align="center">
     <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,7 +12,6 @@
     <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
-    <p>unity&nbsp;vscode&nbsp;.net&nbsp;c#&nbsp;c&nbsp;python&nbsp;java&nbsp;kotlin&nbsp;andstudio</p>
     <br>
     <img src="http://skillicons.dev/icons?i=html" title="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=css" title="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;
