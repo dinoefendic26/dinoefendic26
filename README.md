@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!" align="center">
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"></h1>
 
 
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
