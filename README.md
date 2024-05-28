@@ -11,7 +11,7 @@
     <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
-    <p>unity&nbsp;vscode&nbsp;.net</p>
+    <p>unity&nbsp;vscode&nbsp;.net&nbsp;c#&nbsp;c&nbsp;python&nbsp;java&nbsp;kotlin&nbsp;andstudio</p>
     <br>
     <img src="http://skillicons.dev/icons?i=html" title="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=css" title="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;
