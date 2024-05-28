@@ -1,9 +1,10 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> -->
-<div style="text-align: center;">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" alt="Typing SVG" />
   </a>
-</div>
+</p>
+
 
 
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
