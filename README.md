@@ -1,6 +1,6 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> -->
 <p align="left">
-    <img height="800" src="https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Dino;I'm+on+a+mission+to+become+a+AAA+game+developer!&center=false&width=800&height=100&duration=4000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Dino;I'm+on+a+mission+to+become+a+AAA+game+developer!&center=false&width=800&height=100&duration=4000&font=35" alt="Typing SVG" />
 </p>
 
 
