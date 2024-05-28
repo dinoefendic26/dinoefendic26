@@ -1,13 +1,13 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> -->
 <p align="center">
-    <img width="800" height="100" src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" alt="Typing SVG" />
+    <img width="700" height="50" src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" alt="Typing SVG" />
 </p>
 
 
-<h1 align="center"> &lt;Languages & Tools/&gt; </h1>
+<h1 align="left"> &lt;Languages & Tools/&gt; </h1>
 <br/>
 
-<div align="center">
+<div align="left">
     <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=vscode" title="VS Code"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,9 +31,9 @@
 </div><br><br>
 
 
-<h1 align="center"> &lt;Stats/&gt; </h1>
+<h1 align="left"> &lt;Stats/&gt; </h1>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=dinoefendic26&theme=react&show_icons=true&hide_border=false&count_private=true">
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&theme=react&show_icons=true&hide_border=false&layout=compact" width="200">-->
     <br><br>
