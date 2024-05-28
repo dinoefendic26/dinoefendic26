@@ -1,4 +1,4 @@
-<h1 src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!" align="center"></h1>
+<h1 src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!" align="center">
 
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
 <br/>
