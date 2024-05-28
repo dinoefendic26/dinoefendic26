@@ -1,7 +1,7 @@
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
 <br/>
 <div align="center">
-    <img src="http://skillicons.dev/icons?i=unity" title="Unity" style="margin-right:100px;"/>
+    <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=vscode" title="VS Code"/>
     <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" />
     <img src="http://skillicons.dev/icons?i=cs" title="C#"/>
