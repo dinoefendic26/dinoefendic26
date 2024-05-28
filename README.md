@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Dino;I'm+on+a+mission+to+become+a+AAA+game+developer!&center=false&duration=4000&fontSize=70&lineHeight=100" alt="Typing SVG" />
 </p> -->
 
-<h1 align="left"> &lt;Languages & Tools/&gt; </h1>
+<h1 align="left"> &lt;Languages && Tools/&gt; </h1>
 <br/>
 
 <div align="left">
