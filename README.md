@@ -1,5 +1,4 @@
-
-<a src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"></a>
+<!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> -->
 
 
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
