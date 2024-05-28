@@ -26,8 +26,8 @@
 <h1 align="center"> &lt;Stats/&gt; </h1>
 <br/>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dinoefendic26&theme=react&show_icons=true&hide_border=false&count_private=true" width="600">
+    <img src="https://github-readme-stats.vercel.app/api?username=dinoefendic26&theme=react&show_icons=true&hide_border=false&count_private=true">
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoefendic26&theme=react&show_icons=true&hide_border=false&layout=compact" width="200">-->
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=react&hide_border=false" width="600">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinoefendic26&theme=react&hide_border=false">
 </div>
