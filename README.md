@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text"
+</h1>
+
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
 <br/>
 
