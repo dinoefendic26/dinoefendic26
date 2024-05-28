@@ -3,10 +3,11 @@
 <div style="display: inline-block; text-align: center; margin-right: 10px;">
     <img src="http://skillicons.dev/icons?i=unity" title="Unity" />
     <p>Unity</p>
-</div>
-<div style="display: inline-block; text-align: center; margin-right: 10px;">
     <img src="http://skillicons.dev/icons?i=vscode" title="VS Code" />
     <p>VS Code</p>
+</div>
+<div style="display: inline-block; text-align: center; margin-right: 10px;">
+    
 </div>
 <br>
 
