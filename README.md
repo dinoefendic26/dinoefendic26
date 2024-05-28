@@ -1,25 +1,25 @@
 <h1 align="center"> &lt;Languages & Tools/&gt; </h1>
 <br/>
 <div align="center">
-    <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=vscode" title="VS Code"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" />&nbsp;
-    <img src="http://skillicons.dev/icons?i=cs" title="C#"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=c" title="C"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=python" title="Python"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=java" title="Java"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>&nbsp;
+    <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=vscode" title="VS Code"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=dotnet" title=".NET" />&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=cs" title="C#"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=c" title="C"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=python" title="Python"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=java" title="Java"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>&nbsp;&nbsp;
     <br>
-    <img src="http://skillicons.dev/icons?i=html" title="HTML"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=css" title="CSS"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=javascript" title="JavaScript"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=jquery" title="jQuery"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=nodejs" title="Node.js"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=php" title="PHP"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=mysql" title="MySQL"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=figma" title="Figma"/>&nbsp;
-    <img src="http://skillicons.dev/icons?i=blender" title="Blender"/>&nbsp;
+    <img src="http://skillicons.dev/icons?i=html" title="HTML"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=css" title="CSS"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=javascript" title="JavaScript"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=jquery" title="jQuery"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=nodejs" title="Node.js"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=php" title="PHP"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=mysql" title="MySQL"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=figma" title="Figma"/>&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=blender" title="Blender"/>&nbsp;&nbsp;
 </div><br><br>
 
 
