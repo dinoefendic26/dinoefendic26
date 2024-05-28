@@ -1,7 +1,8 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> -->
 <p align="left">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Dino;I'm+on+a+mission+to+become+a+AAA+game+developer!&center=false&duration=4000&font-size=55" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Dino;I'm+on+a+mission+to+become+a+AAA+game+developer!&center=false&duration=4000&font-size=70" alt="Typing SVG" />
 </p>
+
 
 
 <h1 align="left"> &lt;Languages & Tools/&gt; </h1>
