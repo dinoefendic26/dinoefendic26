@@ -10,7 +10,7 @@
     <img src="http://skillicons.dev/icons?i=java" title="Java"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=kotlin" title="Kotlin"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>&nbsp;&nbsp;
-    <br>
+    <br><br>
     <img src="http://skillicons.dev/icons?i=html" title="HTML"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=css" title="CSS"/>&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=javascript" title="JavaScript"/>&nbsp;&nbsp;
