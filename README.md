@@ -1,4 +1,4 @@
-<!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> 
+<!--  <img src="https://readme-typing-svg.demolab.com/?lines=Hello my name is Effozza!"> 
 <p align="left">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+my+name+is+Dino;I'm+on+a+mission+to+become+a+AAA+game+developer!&center=false&duration=4000&fontSize=70&lineHeight=100" alt="Typing SVG" />
 </p> -->
