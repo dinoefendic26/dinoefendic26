@@ -5,7 +5,6 @@
 
 <h1 align="left"> &lt;Languages & Tools/&gt; </h1>
 <br/>
-
 <div align="left">
     <img src="http://skillicons.dev/icons?i=unity" title="Unity"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=vscode" title="VS Code"/>&nbsp;&nbsp;&nbsp;&nbsp;
