@@ -23,6 +23,7 @@
     <img src="http://skillicons.dev/icons?i=javascript" title="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=jquery" title="jQuery"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=nodejs" title="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=react" title="Reaxt.js"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=php" title="PHP"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=mysql" title="MySQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=figma" title="Figma"/>&nbsp;&nbsp;&nbsp;&nbsp;
