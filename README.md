@@ -29,7 +29,7 @@
     <img src="http://skillicons.dev/icons?i=mysql" title="MySQL"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="http://skillicons.dev/icons?i=figma" title="Figma"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <!--<img src="http://skillicons.dev/icons?i=blender" title="Blender"/>&nbsp;&nbsp;&nbsp;&nbsp;-->
-    <img src="http://skillicons.dev/icons?i=mongo" title="Figma"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="http://skillicons.dev/icons?i=mongo" title="Mongo"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br><br>
 
 
